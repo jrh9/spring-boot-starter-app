@@ -9,7 +9,7 @@ Simple starter kit for Spring Boot application
 * Clone this repository
 
 ````bash
-$ git clone git@github.com:jrh9/locals-data.git
+$ git clone git@github.com:jrh9/spring-boot-starter-app.git
 ````
 
 Ensure system setup is correct
