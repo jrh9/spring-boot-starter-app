@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <start-class>com.jrh.data-handler.Application</start-class>
+        <start-class>com.jrh.spring.boot.starter.app.Application</start-class>
     </properties>
 
     <dependencies>
